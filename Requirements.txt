@@ -1,0 +1,15 @@
+1	Drawing canvas must be well shaped and resizable as user need
+2	Drawing image using pencil and different types of shape.
+3	The Painting editor will be combined with some painting tools. Such as: Pencil, Eraser, Color picker, brushes.
+4	There will be a huge collections of different types of shapes to enhance one’s drawing ability.
+5	The editor will provide some operations such as cut, copy , paste, delete & upload image & files.
+6	The editor will provide simple image manipulation such as crop, rotate, resize.
+7	Image can be uploaded to edit contrast and add text.
+8	The menu Color contains the menuItem Edit color by which user can select any type of colors using color chooser for drawing
+9	Erase and smudge an image using eraser and smudge tool.
+10	Image can be rotate in ninty degree angle
+11	Slider will be used for changing the size of pencil and eraser.
+12	Mnemonics and Tool Tip Text are used to make user friendly
+13	Extra feature will be work with image animations 
+14	Save paint work in any format such as gif, png, jpg, bmp, jpeg. 
+15	There will be a user guideline that will help the user to use the editor perfectly.
